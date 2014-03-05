@@ -2,7 +2,7 @@ servo-mega-control
 ==================
 
 
-```ino
+```C
 #include<Servo.h>
 
 Servo myservo;
