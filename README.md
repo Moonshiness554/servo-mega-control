@@ -27,4 +27,4 @@ void loop(){
   delay(15);
 }
 ```
-finally end the code block with three back ticks, commit, and enjoy the :awesome: syntax highlighting.
+finally end the code block with three back ticks, commit, and enjoy the :cool: syntax highlighting.
