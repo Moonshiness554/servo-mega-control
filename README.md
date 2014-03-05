@@ -1,6 +1,8 @@
 servo-mega-control
 ==================
 
+
+```ino
 #include<Servo.h>
 
 Servo myservo;
@@ -18,3 +20,4 @@ void loop(){
   myservo.write(val);
   delay(15);
 }
+```
